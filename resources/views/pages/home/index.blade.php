@@ -15,7 +15,7 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit dicta quidem consequuntur, blanditiis magni quo modi! Nam modi explicabo alias.
                     </p>
                     <x-jet-button class="mt-4">
-                        {{ __('Subscribe') }}
+                        {{ __('Subscribes') }}
                     </x-jet-button>
                 </div>
             </div>
