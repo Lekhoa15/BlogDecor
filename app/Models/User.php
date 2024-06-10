@@ -281,10 +281,6 @@ class User extends Authenticatable
         return $this->attributes['state'] ?? null;
     }
 
-
-
-
-
 public function stripeAddress()
 {
     return [
